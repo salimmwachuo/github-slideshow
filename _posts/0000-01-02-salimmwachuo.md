@@ -2,4 +2,4 @@
 Layout : slide
 Title : " Welcome to our second slide! "
 
-Creating my first file in github 
+" Wow am just through with my first file! "
